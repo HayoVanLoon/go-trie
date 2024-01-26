@@ -1,4 +1,4 @@
-// Package trie implements a simple tree.
+// Package trie implements a simple trie.
 package trie
 
 import (
